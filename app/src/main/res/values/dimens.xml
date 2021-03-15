@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="margin_xsmall">10dp</dimen>
+    <dimen name="margin_mid">15dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+
+    <dimen name="card_space">16dp</dimen>
+    <dimen name="card_image_rounding_radius">5dp</dimen>
+    <dimen name="card_image_size">125dp</dimen>
+    <dimen name="sheet_indicator_width">42dp</dimen>
+    <dimen name="sheet_indicator_height">4dp</dimen>
+    <dimen name="gallery_item_size">100dp</dimen>
+    <dimen name="gallery_item_space">2dp</dimen>
+</resources>

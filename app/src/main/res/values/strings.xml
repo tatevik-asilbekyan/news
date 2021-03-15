@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="news">News</string>
+    <string name="image_gallery">Image Gallery</string>
+    <string name="video_gallery">Video Gallery</string>
+    <string name="preview">Preview</string>
+    <string name="detail">Detail</string>
+    <string name="read_more">Read more</string>
+    <string name="show_less">Show less</string>
+
+    <string name="text_separator" translatable="false">%s / %s</string>
+</resources>
